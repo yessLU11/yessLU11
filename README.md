@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** 
 
-- 👨‍💻 All of my projects are available at [proyectos en tik tok](https://www.tiktok.com/@samaritano.dev) 
+- 👨‍💻 All of my projects are available at [projects in tik tok](https://www.tiktok.com/@samaritano.dev) 
 
 - 💬 Ask me about **design apps for mobile and web.**
 
