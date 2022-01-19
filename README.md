@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yFVAIOMZn4OPEXv8ep6vd6NhJTy-MTo2/view?usp=sharing)
 
-- 📄 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola)
+- 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola)
 
 <h3 align="left">Connect with me:</h3>
 
