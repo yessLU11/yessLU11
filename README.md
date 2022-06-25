@@ -64,7 +64,7 @@
 
 <p align="center">&nbsp;
   <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=synthwave" width="450" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&" alt="samaritanodev" width="450"/></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=synthwave" alt="samaritanodev" width="450"/></a>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&locale=en&layout=compact" alt="samaritanodev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=synthwave" alt="samaritanodev" /></p>
