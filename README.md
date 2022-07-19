@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lesly Samaritano</h1>
 <h3 align="center">A passionate frontend developer in Flutter</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&theme=monokai" alt="samaritanodev" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=3&theme=monokai" alt="samaritanodev" /> </p>
 
 
 - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** 
