@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lesly Samaritano</h1>
 <h3 align="center">A passionate frontend developer in Flutter</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samaritanodev&label=Profile%20views&color=0e75b6&style=flat" alt="samaritanodev" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samaritanodev" alt="samaritanodev" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&theme=monokai" alt="samaritanodev" /> </p>
 
 
 - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** 
@@ -63,8 +61,8 @@
 <h2 align="left">✨Statistics:</h2>
 
 <p align="center">&nbsp;
-  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=synthwave" width="450" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=synthwave" alt="samaritanodev" width="450"/></a>
+  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=monokai" width="450" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" width="450"/></a>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=synthwave" alt="samaritanodev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" /></p>
