@@ -3,20 +3,25 @@
 <h1 align="center">Hi 👋, I'm Lesly Samaritano</h1>
 <h3 align="center">A passionate frontend developer in Flutter</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=3&theme=monokai" alt="samaritanodev" /> </p>
 
+<p align="center"> <img src="https://camo.githubusercontent.com/d359dbec1da7f8ae1cd473ad9dfd7cb958484084fe6fd6f3689cf74418b4ff8f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d61726974616e6f646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="view" /> </p>
 
-<p align="center"> - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** </p>
+<p align="center">&nbsp;
+  <a><img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=3&theme=monokai" /></a>
+ </p>
+ 
 
-<p align="center"> - 👨‍💻 All of my projects are available at [projects in tik tok](https://www.tiktok.com/@samaritano.dev) </p>
+ - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** 
 
-<p align="center"> - 💬 Ask me about **design apps for mobile and web.** </p>
+- 👨‍💻 All of my projects are available at [projects in tik tok](https://www.tiktok.com/@samaritano.dev) 
 
-<p align="center"> - 📫 How to reach me **lesly.samaritano.ayala@gmail.com** </p>
+ - 💬 Ask me about **design apps for mobile and web.** 
 
-<p align="center"> - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yFVAIOMZn4OPEXv8ep6vd6NhJTy-MTo2/view?usp=sharing) </p>
+ - 📫 How to reach me **lesly.samaritano.ayala@gmail.com** 
 
-<p align="center"> - 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola) </p>
+ - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yFVAIOMZn4OPEXv8ep6vd6NhJTy-MTo2/view?usp=sharing) 
+
+ - 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola) 
 
 <h3 align="center">Connect with me:</h3>
 
