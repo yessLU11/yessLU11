@@ -19,7 +19,7 @@
 
  - 📫 How to reach me **lesly.samaritano.ayala@gmail.com** 
 
- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yFVAIOMZn4OPEXv8ep6vd6NhJTy-MTo2/view?usp=sharing) 
+ - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1o4srGam4V9U9morhDI3xsgFYagw-MIMu/view?usp=sharing) 
 
  <!--- 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola) -->
 
@@ -39,18 +39,6 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-</p>
-<h3 align="center">Frontend Development:</h3>
-<p align="center">        
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
-<h3 align="center">Database:</h3>
-<p align="center">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-</p>
 <h3 align="center">Backend as a Service(BaaS):</h3>
 <p align="center">
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
