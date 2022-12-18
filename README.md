@@ -1,6 +1,11 @@
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136720579-5e62a216-7a68-4509-bb6c-08f1f93b8901.gif" width="1000" height="450" /> -->
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136721567-c55c78e4-d4f2-487d-b093-f8abcca1bd76.png" width="1000" height="480" /> -->
-<h1 align="center">Hi 👋, I'm Lesly Samaritano</h1>
+
+  <h1 align="center">Hi 👋, I'm Lesly Samaritano for</h1>    
+     <p align="center">
+      <a><img src="https://user-images.githubusercontent.com/91768959/208320730-ad55be60-8c0f-4ec7-bb96-97bc22bd591f.png" height="100" /></a>
+     </p>
+  
 <h3 align="center">A passionate frontend developer in Flutter</h3>
 
 
