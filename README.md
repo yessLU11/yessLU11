@@ -24,7 +24,7 @@
 
  - 📫 How to reach me **lesly.samaritano.ayala@gmail.com** 
 
- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1o4srGam4V9U9morhDI3xsgFYagw-MIMu/view?usp=sharing) 
+ - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZqRcOQfIknajL5KW6yqpPM8yC_pXo6Yq/view?usp=sharing) 
 
  <!--- 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola) -->
 
