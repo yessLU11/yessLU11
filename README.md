@@ -1,15 +1,11 @@
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136720579-5e62a216-7a68-4509-bb6c-08f1f93b8901.gif" width="1000" height="450" /> -->
 <!--<img align="center" src="https://user-images.githubusercontent.com/91768959/136721567-c55c78e4-d4f2-487d-b093-f8abcca1bd76.png" width="1000" height="480" /> -->
 
-  <h1 align="center">Hi 👋, I'm Lesly Samaritano for</h1>    
+  <h1 align="center">Hi 👋, I'm Lesly Samaritano, a Freelancer as a mobile app developer using Flutter since 2023 📱👩🏽‍💻 and an Ambassador for Women Techmakers🚀</h1>     <h3 align="center">A passionate frontend developer in Flutter</h3>
      <p align="center">
-      <a><img src="https://user-images.githubusercontent.com/91768959/208320730-ad55be60-8c0f-4ec7-bb96-97bc22bd591f.png" height="100" /></a>
+      <a><img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*-_zVpHOYFZgtzasKTJF8Pw.jpeg" align="center" style="width: 100" /></a>
      </p>
   
-<h3 align="center">A passionate frontend developer in Flutter</h3>
-
-
-<p align="center"> <img src="https://camo.githubusercontent.com/d359dbec1da7f8ae1cd473ad9dfd7cb958484084fe6fd6f3689cf74418b4ff8f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d61726974616e6f646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="view" /> </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">&nbsp;
@@ -17,16 +13,10 @@
  </p>
  
 ## 💫 About Me
- - 🌱 I’m currently learning **kotlin, dart, flutter, firebase and portuguese** 
-
-- 👨‍💻 All of my projects are available at [projects in tik tok](https://www.tiktok.com/@samaritano.dev) 
-
- - 💬 Ask me about **design apps for mobile and web.** 
-
- - 📫 How to reach me **lesly.samaritano.ayala@gmail.com** 
-
- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZqRcOQfIknajL5KW6yqpPM8yC_pXo6Yq/view?usp=sharing) 
-
+- 🔭 I’m currently working on [Flutterina Studio.](https://www.instagram.com/flutterinastudio/)  
+-  📚I’m currently learning Swift and BLoC.  
+- ❓ Ask me about anything related to Flutter and Content Creation.   
+- 💙 Fun fact: I like the Pomodoro technique.  
  <!--- 🤳🏽 My WhatsApp [cellphone](https://wa.me/51960084505?text=Hola) -->
 
 <h3 align="center">Connect with me:</h3>
@@ -44,7 +34,9 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<h3 align="center">Backend as a Service(BaaS):</h3>
+<a href="https://www.swift.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a> 
+  
+  <h3 align="center">Backend as a Service(BaaS):</h3>
 <p align="center">
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
@@ -52,7 +44,6 @@
 <p align="center">
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
