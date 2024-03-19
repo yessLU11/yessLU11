@@ -3,7 +3,7 @@
 
   <h1 align="center">Hi 👋, I'm Lesly Samaritano, a Freelancer as a mobile app developer using Flutter since 2023 📱👩🏽‍💻 and an Ambassador for Women Techmakers🚀</h1>     <h3 align="center">A passionate frontend developer in Flutter</h3>
      <p align="center">
-      <a><img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*-_zVpHOYFZgtzasKTJF8Pw.jpeg" align="center" style="width: 100" /></a>
+      <a><img src="https://github.com/SamaritanoDev/SamaritanoDev/assets/91768959/6a2fb19d-dc94-4741-8314-9e4f670f3f0a" align="center" style="width: 100" /></a>
      </p>
   
 
@@ -49,11 +49,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">&nbsp;
-  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=monokai" width="450" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" width="450"/></a>
+  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=monokai" width="450" height="200" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" width="450" height="200"/></a>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev"/></p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SamaritanoDev#4038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flutterinastudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samaritanodev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flutterinastudio) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SamaritanoDev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samaritanoayala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flutterinastudio) 
