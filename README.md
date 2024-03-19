@@ -4,12 +4,10 @@
   <h1 align="center">Hi 👋, I'm Lesly Samaritano, a Freelancer as a mobile app developer using Flutter since 2023 📱👩🏽‍💻 and an Ambassador for Women Techmakers🚀</h1>     <h3 align="center">A passionate frontend developer in Flutter</h3>
      <p align="center">
       <a><img src="https://github.com/SamaritanoDev/SamaritanoDev/assets/91768959/6a2fb19d-dc94-4741-8314-9e4f670f3f0a" align="center" style="width: 100" /></a>
-     </p>
-  
-
+       
 ## 🏆 GitHub Trophies
 <p align="center">&nbsp;
-  <a><img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=3&theme=monokai&no-frame=false&no-bg=false&margin-w=4" /></a>
+  <a><img src="https://github-profile-trophy.vercel.app/?username=SamaritanoDev&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" /></a>
  </p>
  
 ## 💫 About Me
