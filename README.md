@@ -49,11 +49,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">&nbsp;
-  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=monokai" width="450" height="200" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev" width="450" height="200"/></a>
+  <a><img  alt="SamaritanoDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaritanoDev&show_icons=true&theme=aura" width="450" height="200" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=samaritanodev&show_icons=true&theme=aura" alt="samaritanodev" width="450" height="200"/></a>
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=monokai" alt="samaritanodev"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samaritanodev&show_icons=true&theme=aura" alt="samaritanodev"/></p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SamaritanoDev#4038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flutterinastudio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samaritanodev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@flutterinastudio) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SamaritanoDev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samaritanoayala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flutterinastudio) 
